@@ -8,7 +8,7 @@ class MeshVisualizer {
     MeshVisualizer (const std::string& path) {
       cv::viz::Viz3d myWindow;
       cv::viz::WMesh mesh = cv::viz::Mesh::load(path);
-      myWindow.showWidget("point cloud map", mesh); // plot mesh
+      myWindow.showWidget("Mesh", mesh);
       myWindow.spin();
     }
 };
