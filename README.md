@@ -14,7 +14,7 @@ make -j8
 ```
 
 ## Usage
-Move to the build folder, and use the executable therein:
+Move to the `build` folder, and use the executable therein:
 ```
 ./mesh_visualizer ../output_mesh.ply
 ```
