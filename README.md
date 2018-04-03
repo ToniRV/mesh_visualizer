@@ -17,4 +17,6 @@ For example,
 
 ./mesh_visualizer ../output_mesh.ply
 
+Alternatively, use the matlab function in the matlab folder, but I do not like very much the user interface of matlab to visualize the mesh...
+
 
